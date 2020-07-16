@@ -52,16 +52,3 @@ public class HelloController {
     }
 
 }
-
-
-/*
-Modify your HelloController class to display a form on a GET request that asks the user
-for both their name and the language they would like to be greeted in
-
-1. Include at least 5 languages, with English being the default. If you don’t speak 5
-languages yourself, ask your friend the Internet.
-2. Include a new public static method, createMessage, in the HelloController that takes a name
-as well as a language string. Based on the language string, you’ll display the proper greeting
-
-
- */
